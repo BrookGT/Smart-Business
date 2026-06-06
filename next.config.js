@@ -10,6 +10,7 @@ const nextConfig = {
     } : false,
   },
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'http',

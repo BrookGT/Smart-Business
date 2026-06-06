@@ -1,6 +1,6 @@
 import React from "react";
 import { Stack, Tooltip, useTheme } from "@mui/material";
-import emptyImage from "/public/static/empty_img.png";
+import emptyImage from "../../../public/static/empty_img.png";
 import {
   DashedBox,
   FileUploadHeader,

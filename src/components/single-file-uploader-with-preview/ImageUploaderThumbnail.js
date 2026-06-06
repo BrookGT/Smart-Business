@@ -1,6 +1,6 @@
 import React from "react";
 import { CustomDotBox } from "../file-previewer/FilePreviewer.style";
-import emptyImage from "/public/static/empty_img.png";
+import emptyImage from "../../../public/static/empty_img.png";
 import CloudUploadIcon from "@mui/icons-material/CloudUpload";
 import { Stack } from "@mui/material";
 import CustomImageContainer from "../CustomImageContainer";

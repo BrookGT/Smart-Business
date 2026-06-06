@@ -3,10 +3,6 @@ node_modules
 out
 build
 coverage
-.git
-.gitignore
-*.md
-!README.md
 .env*.local
 npm-debug.log*
 yarn-debug.log*
@@ -15,4 +11,5 @@ yarn-error.log*
 .idea
 .vscode
 *.zip
-scripts/generate-history.mjs
+.history-staging
+.swc
